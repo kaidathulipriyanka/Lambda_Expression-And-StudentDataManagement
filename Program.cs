@@ -23,10 +23,10 @@ namespace LambdaExpression_StudentDataManagement
             // Create a list of Student objects
             List<Student> students = new List<Student>
         {
-            new Student { Id = 1, Name = "sai", PhoneNumber = "1234567890", Address = "123 Main St", Age = 15 },
-            new Student { Id = 2, Name = "battu", PhoneNumber = "9876543210", Address = "456 Elm St", Age = 18 },
-            new Student { Id = 3, Name = "ram", PhoneNumber = "5556667777", Address = "789 Oak St", Age = 20 },
-            new Student { Id = 4, Name = "saisai", PhoneNumber = "9991112222", Address = "123 Main St", Age = 14 },
+            new Student { Id = 1, Name = "priya", PhoneNumber = "1234567890", Address = "123 Main St", Age = 15 },
+            new Student { Id = 2, Name = "kaidathuli", PhoneNumber = "9876543210", Address = "456 Elm St", Age = 18 },
+            new Student { Id = 3, Name = "saiamma", PhoneNumber = "5556667777", Address = "789 Oak St", Age = 20 },
+            new Student { Id = 4, Name = "saee", PhoneNumber = "9991112222", Address = "123 Main St", Age = 14 },
         };
 
             // Display all student details
