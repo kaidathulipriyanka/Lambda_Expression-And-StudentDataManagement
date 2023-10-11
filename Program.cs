@@ -58,7 +58,7 @@ namespace LambdaExpression_StudentDataManagement
             firstThreeStudents.ForEach(s => Console.WriteLine(s));
 
             // Search for a student by name
-            string searchName = "sai";
+            string searchName = "priya";
             var foundStudent = students.FirstOrDefault(s => s.Name == searchName);
             Console.WriteLine($"\nSearch Result for Student with Name '{searchName}':");
             if (foundStudent != null)
